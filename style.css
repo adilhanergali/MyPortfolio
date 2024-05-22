@@ -218,7 +218,7 @@ body{
 }
 .button1{
     transition: all 0.3s ease;
-    font-size: 15px;
+    font-size: 17px;
     text-align: center;
     color: #cc6f18; 
     background-color:#78290f;
@@ -276,10 +276,10 @@ body{
     border: 0px solid;
 }
 .impuls{
-    margin-top: 25%;
+    margin-top: 29%;
 }
 .impulsmini{
-    margin-top: 10%;
+    margin-top: 0%;
 }
 .blogimpuls{
     margin-left: 30%;
@@ -292,7 +292,7 @@ body{
     border-radius: 25%;
 }
 .buttonpraktolog{
-    margin-left: 20%;
+    margin-left: 25%;
 }
 .rounder3{
     border-radius: 1%;
